@@ -1,4 +1,4 @@
 # niranjana.github.io
 Personal Portfolio
 
-this is my personal portfolio
+this is my personal portfolio.
